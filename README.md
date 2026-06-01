@@ -2,6 +2,8 @@
 
 # Materiais de Programação (12.º ano)
 
+## Ano letivo 2024/2025
+
 Este repositório reúne materiais de apoio ao estudo de Programação no 12.º ano. A organização segue a progressão que pode ser consultada a seguir.
 
 ---
